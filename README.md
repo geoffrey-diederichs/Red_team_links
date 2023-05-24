@@ -17,6 +17,7 @@
 
 ## Malware ressources
 
+- [vx-underground](https://www.vx-underground.org/)
 - [Malware development basics](https://www.youtube.com/watch?v=aNEqC-U5tHM&pp=ygUObWFsd2FyZSB0aGVvcnk%3D)
 - [ired.team code & process injection](https://www.ired.team/offensive-security/code-injection-process-injection)
 - [DLL Hijacking](https://www.youtube.com/watch?v=3eROsG_WNpE)
