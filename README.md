@@ -11,8 +11,8 @@
 
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Exploit Reversing articles](https://exploitreversing.com/2023/04/11/exploiting-reversing-er-series/)
-- [gdb](https://github.com/rustymagnet3000/gdb)
-- [gdb cheat sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
+- [gdb cheat sheet 1](https://github.com/rustymagnet3000/gdb)
+- [gdb cheat sheet 2](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 - [Reasearch on game anti-cheat](https://repositorio-aberto.up.pt/bitstream/10216/142935/2/572983.pdf)
 
 ## Malware ressources
