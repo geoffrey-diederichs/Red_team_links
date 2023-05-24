@@ -9,7 +9,7 @@
 
 ## Reverse engineering
 
-- [Binary Exploitation / Memory Corruption by LiveOverflow](Binary Exploitation / Memory Corruption by LiveOverflow)
+- [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [Exploit Reversing articles](https://exploitreversing.com/2023/04/11/exploiting-reversing-er-series/)
 - [gdb](https://github.com/rustymagnet3000/gdb)
 - [gdb cheat sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
