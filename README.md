@@ -13,7 +13,7 @@
 - [Exploit Reversing articles](https://exploitreversing.com/2023/04/11/exploiting-reversing-er-series/)
 - [gdb cheat sheet 1](https://github.com/rustymagnet3000/gdb)
 - [gdb cheat sheet 2](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-- [Reasearch on game anti-cheat](https://repositorio-aberto.up.pt/bitstream/10216/142935/2/572983.pdf)
+- [Research on game anti-cheat](https://repositorio-aberto.up.pt/bitstream/10216/142935/2/572983.pdf)
 
 ## Malware ressources
 
