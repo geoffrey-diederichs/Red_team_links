@@ -22,6 +22,7 @@
 - [DLL Hijacking](https://www.youtube.com/watch?v=3eROsG_WNpE)
 - [Fun with DLL](https://www.youtube.com/watch?v=ARu5l5dS5gM)
 - [API hashing](https://trikkss.github.io/posts/hiding_windows_api_calls_part1/)
+- [Hunting Russian Intelligence "Snake" Malware](https://www.cisa.gov/sites/default/files/2023-05/aa23-129a_snake_malware_2.pdf)
 
 ## Shellcodes
 - [Linux shellcode 101](https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell/)
