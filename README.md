@@ -19,9 +19,9 @@
 
 - [vx-underground](https://www.vx-underground.org/)
 - [Malware development basics](https://www.youtube.com/watch?v=aNEqC-U5tHM&pp=ygUObWFsd2FyZSB0aGVvcnk%3D)
-- [ired.team code & process injection](https://www.ired.team/offensive-security/code-injection-process-injection)
+- [Malware Development](https://www.youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32)
 - [DLL Hijacking](https://www.youtube.com/watch?v=3eROsG_WNpE)
-- [Fun with DLL](https://www.youtube.com/watch?v=ARu5l5dS5gM)
+- [ired.team code & process injection](https://www.ired.team/offensive-security/code-injection-process-injection)
 - [API hashing](https://trikkss.github.io/posts/hiding_windows_api_calls_part1/)
 - [Hunting Russian Intelligence "Snake" Malware](https://www.cisa.gov/sites/default/files/2023-05/aa23-129a_snake_malware_2.pdf)
 
