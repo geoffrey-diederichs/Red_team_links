@@ -19,6 +19,9 @@
 
 - [vx-underground](https://www.vx-underground.org/)
 - [Malware development basics](https://www.youtube.com/watch?v=aNEqC-U5tHM&pp=ygUObWFsd2FyZSB0aGVvcnk%3D)
+- [Malware development in Rust](https://www.youtube.com/playlist?list=PLwVUVslZT0K1qX67U_bFsf6puBrnEWhMa)
+- [Live malware development in Rust](https://www.youtube.com/playlist?list=PL1jK3K11NINimPfbxGD8Jq_mMZ1vozUIO)
+- [Malware Development in Rust - Rust and the Windows Registry](https://www.youtube.com/watch?v=U2POuqww6jY&list=PLq3cxyqYkAqlpeW6ngUmFDNIprxYRr3fx&index=5)
 - [Malware Development](https://www.youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32)
 - [DLL Hijacking](https://www.youtube.com/watch?v=3eROsG_WNpE)
 - [ired.team code & process injection](https://www.ired.team/offensive-security/code-injection-process-injection)
