@@ -19,6 +19,7 @@
 
 - [vx-underground](https://www.vx-underground.org/)
 - [ired.team code & process injection](https://www.ired.team/offensive-security/code-injection-process-injection)
+- [Meterpreter vs modern EDR(s)](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
 - [Malware development basics](https://www.youtube.com/watch?v=aNEqC-U5tHM&pp=ygUObWFsd2FyZSB0aGVvcnk%3D)
 - [Malware development](https://www.youtube.com/playlist?list=PL_dk67mLCSFHa5jDNvEuXuoafMHmTjn32)
 - [Malware development in Rust](https://www.youtube.com/playlist?list=PLwVUVslZT0K1qX67U_bFsf6puBrnEWhMa)
