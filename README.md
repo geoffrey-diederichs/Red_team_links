@@ -5,6 +5,7 @@
 - [ired.team](https://www.ired.team/)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Seclists](https://github.com/danielmiessler/SecLists)
 - [Reverse shells](https://www.revshells.com/)
 
 ## Reverse engineering
