@@ -28,6 +28,7 @@
 - [Malware development in Rust - Rust and the Windows Registry](https://www.youtube.com/watch?v=U2POuqww6jY&list=PLq3cxyqYkAqlpeW6ngUmFDNIprxYRr3fx&index=5)
 - [DLL Hijacking](https://www.youtube.com/watch?v=3eROsG_WNpE)
 - [API hashing](https://trikkss.github.io/posts/hiding_windows_api_calls_part1/)
+- [Master of Puppets: How to Tamper an EDR?](https://www.youtube.com/watch?v=vdYdKmgm20U)
 - [Hunting Russian Intelligence "Snake" Malware](https://www.cisa.gov/sites/default/files/2023-05/aa23-129a_snake_malware_2.pdf)
 
 ## Shellcodes
