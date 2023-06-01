@@ -32,3 +32,4 @@
 
 ## Shellcodes
 - [Linux shellcode 101](https://axcheron.github.io/linux-shellcode-101-from-hell-to-shell/)
+- [How to Write Shellcode - Part 2: Writing a reverse shell TCP server in C](https://www.youtube.com/watch?v=u3COf_kJ8sk)
